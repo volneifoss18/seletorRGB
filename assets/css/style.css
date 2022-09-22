@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+}
+
+.box {
+    background-color: white;
+    box-shadow: 2px 2px 8px black;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 40%;
+    border: 1px solid black;
+    width: 20%;
+    height: 250px
+}
+
+.box-color {
+    border: 1px solid black;
+    width: 80% ;
+    height: 100px;
+    margin: 10%;
+}
